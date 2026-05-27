@@ -1,0 +1,29 @@
+# Entornos virtuales
+venv/
+.venv/
+
+# Variables de entorno
+.env
+
+# Caché de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos generados por el pipeline
+reviews.json
+reviews_clean.csv
+ai_analysis.json
+review_report.html
+
+# Carpetas de resultados
+outputs/
+reports/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Configuración de editores
+.vscode/
+.idea/
